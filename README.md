@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Miguel%20Moraes&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+%7C+Artificial+Intelligence;Researcher+PIBITI%2FCNPq;UFAM" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+%7C+Artificial+Intelligence;PIBITI%2FCNPq+Researcher;UFAM" />
 </p>
 
 # 👋 Olá, eu sou Miguel Moraes
 
 🎓 Estudante de **Ciência da Computação — UFAM**
 🔬 **Bolsista de Iniciação Científica (PIBITI/CNPq)**
-🛡️ Interesse em **Cibersegurança, Inteligência Artificial e Desenvolvimento de Software.**
+🛡️ Interesse em **Cibersegurança, Inteligência Artificial e Desenvolvimento de Software**
 
 📍 Manaus — Amazonas — Brasil
 
@@ -22,8 +22,8 @@ Tenho interesse em pesquisa e desenvolvimento nas áreas de:
 
 * Inteligência Artificial
 * Segurança da Informação
-* Sistemas e Redes
-* Engenharia de Software
+* Redes
+* Desenvolvimento de Software
 
 ---
 
@@ -38,7 +38,7 @@ Tenho interesse em pesquisa e desenvolvimento nas áreas de:
 # 📊 Tecnologias Utilizadas
 
 ```mermaid
-pie showData
+pie
 title Tecnologias utilizadas nos meus projetos
     "Python" : 35
     "Java" : 25
