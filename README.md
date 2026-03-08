@@ -8,7 +8,7 @@
 
 🎓 Estudante de **Ciência da Computação — UFAM**
 🔬 **Bolsista de Iniciação Científica (PIBITI/CNPq)**
-🛡️ Interesse em **Cibersegurança, Inteligência Artificial e Desemvolvimento de Software.**
+🛡️ Interesse em **Cibersegurança, Inteligência Artificial e Desenvolvimento de Software.**
 
 📍 Manaus — Amazonas — Brasil
 
