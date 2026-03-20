@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Miguel%20Moraes&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+%7C+Artificial+Intelligence;PIBITI%2FCNPq+Researcher;UFAM" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+%7C+Artificial+Intelligence+Software+Development;PIBITI%2FCNPq+Researcher;UFAM" />
 </p>
 
 # 👋 Olá, eu sou Miguel Moraes
