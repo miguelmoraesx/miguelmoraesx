@@ -1,101 +1,94 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Miguel%20Moraes&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+%7C+A.I+%7C+Development;PIBITIFC%2NPq+Researcher;UFAM" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1628,100:0d2137&height=200&section=header&text=Miguel%20Moraes&fontSize=44&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Security%20%7C%20AI&descSize=16&descFontColor=58a6ff&descAlignY=58"/>
 
-# 👋 Olá, eu sou Miguel Moraes
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UFAM;Cybersecurity+%26+AI+Researcher;PIBITI%2FCNPq+Fellow" />
 
-🎓 Estudante de **Ciência da Computação — UFAM**
-🔬 **Bolsista de Iniciação Científica (PIBITI/CNPq)**
-🛡️ Interesse em **Cibersegurança, Inteligência Artificial e Desenvolvimento de Software**
+</div>
 
+---
+
+## 👋 Olá, eu sou Miguel Moraes
+
+🎓 Estudante de **Ciência da Computação** na **UFAM/IComp**
+🔬 Bolsista **PIBITI/CNPq** — Iniciação Científica em andamento
+🛡️ Interesses em **Cibersegurança**, **Inteligência Artificial** e **Desenvolvimento de Software**
+🏛️ Membro do **PET-Computação**
 📍 Manaus — Amazonas — Brasil
 
 ---
 
-# 🧠 Sobre mim
+## 🧠 Sobre mim
 
-Sou estudante de Ciência da Computação na **Universidade Federal do Amazonas (UFAM)** e membro do **PET Computação**.
+Sou estudante de Ciência da Computação na **Universidade Federal do Amazonas (UFAM)** e pesquisador bolsista pelo programa **PIBITI/CNPq**. Atuo no desenvolvimento de soluções nas áreas de segurança da informação e inteligência artificial, com experiência em monitoramento Red Team no **INDT (Instituto de Desenvolvimento Tecnológico)**.
 
-Tenho interesse em pesquisa e desenvolvimento nas áreas de:
+Minhas principais áreas de interesse:
 
-* Inteligência Artificial
-* Segurança da Informação
-* Redes
-* Desenvolvimento de Software
-
----
-
-# 🛠️ Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,django,linux,docker,git" />
-</p>
+- 🔐 Segurança da Informação & Pentest
+- 🤖 Inteligência Artificial & LLMs
+- 🌐 Redes de Computadores
+- ⚙️ Desenvolvimento de Software
 
 ---
 
-# 📊 Tecnologias Utilizadas
+## 🛠️ Tecnologias
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,django,linux,docker,git,postgresql,androidstudio" />
+</div>
+
+---
+
+## 📊 Distribuição por projeto
 ```mermaid
-pie
-title Tecnologias utilizadas nos meus projetos
-    "Python" : 35
-    "Java" : 25
-    "C" : 20
-    "Django" : 10
+pie title Tecnologias utilizadas nos meus projetos
+    "Python"         : 35
+    "Java"           : 25
+    "C"              : 20
+    "Django"         : 10
     "Linux / Docker" : 10
 ```
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 ### 🔬 PonderSEC
+> Plataforma web para **avaliação comparativa de LLMs em tarefas de cibersegurança**, desenvolvida durante a iniciação científica **PIBITI/CNPq**.
 
-Plataforma para **avaliação de LLMs em tarefas de cibersegurança**, desenvolvida durante minha **iniciação científica PIBITI/CNPq**.
-
-Stack:
-Python • Django • PostgreSQL • Docker
+**Stack:** Python · Django · PostgreSQL · Docker
 
 ---
 
 ### 🔐 PIN Brute Force
+> Implementação de ataque de **força bruta a PIN de 6 dígitos** com **paralelismo via pthreads em C**.
 
-Implementação de ataque de **força bruta a PIN de 6 dígitos** utilizando **paralelismo com pthreads em C**.
-
-Tempo reduzido de:
-
-**23ms → 5,6ms com 4 threads**
+**Resultado:** tempo reduzido de **23 ms → 5,6 ms** com 4 threads (~4× de speedup)
 
 ---
 
-### 📡 PortScanner
-
-Aplicativo Android desenvolvido em **Java** que realiza **varredura de portas TCP em um host de rede** utilizando **sockets e execução em thread**.
-
+### 📡 PortScanner Android
+> Aplicativo Android em **Java** que realiza **varredura de portas TCP** em um host de rede via sockets em thread dedicada.
 ```mermaid
 flowchart LR
-User[Usuário define IP e intervalo de portas] --> Thread[Thread executa varredura]
-Thread --> Socket[Teste de conexão TCP]
-Socket --> Result{Conexão aceita?}
-Result -->|Sim| Open[Porta aberta]
-Result -->|Não| Closed[Porta fechada]
-Open --> UI[Resultado exibido no aplicativo]
-Closed --> Thread
+    U[Usuário define IP\ne intervalo de portas] --> T[Thread de varredura]
+    T --> S[Teste de conexão TCP]
+    S --> R{Conexão aceita?}
+    R -->|Sim| O[Porta aberta]
+    R -->|Não| T
+    O --> UI[Resultado exibido\nno aplicativo]
 ```
 
 ---
 
-# 🌐 Contato
+## 🌐 Contato
 
-💼 LinkedIn
-https://www.linkedin.com/in/miguel-moraes-7a2535309/
+<div align="center">
 
-📧 Email
-[miguelmoraess1212@gmail.com](mailto:miguelmoraess1212@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-moraes-7a2535309/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelmoraesx)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelmoraess1212@gmail.com)
 
-🐙 GitHub
-https://github.com/miguelmoraesx
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
